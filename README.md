@@ -7,4 +7,4 @@ AnimeClub, Привет друзья!
 
 ## Inviting to a guild
 
-Заходи на ламповый сервер, нажми здесь [here](https://discord.gg/HXegZvc)
+Заходи на ламповый сервер, нажми здесь [здесь](https://discord.gg/HXegZvc)
